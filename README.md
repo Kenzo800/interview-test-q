@@ -1,7 +1,7 @@
 ## Instruction
 Please retrieve the data from API and show it as a card list.
 
-# Optional:
+## Optional:
 Please handle create/update/delete as well.
 
 
@@ -23,3 +23,5 @@ Feel free to do your own Layout & UI design.
 
 
 
+## Submission
+please upload to your own github repository and send the repository url to `cyhrken@gmail.com`
