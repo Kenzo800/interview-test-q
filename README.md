@@ -5,7 +5,7 @@ Please retrieve the data from API and show it as a card list.
 Please handle create/update/delete as well.
 
 
-API URL: `[http://8.217.230.232/users](https://my-json-server.typicode.com/Kenzo800/interview-test-api/users)`
+API URL: `https://my-json-server.typicode.com/Kenzo800/interview-test-api/users`
 
 GET    /users
 
