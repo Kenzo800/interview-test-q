@@ -1,5 +1,5 @@
 // task 3.1: complete the getUsers() function to retrieve the data from API 
-// API URL = "http://8.217.230.232/users"
+// API URL = "https://my-json-server.typicode.com/Kenzo800/interview-test-api/users"
 
 import User from "@/interfaces/user"
 import Card from "@/components/card"
